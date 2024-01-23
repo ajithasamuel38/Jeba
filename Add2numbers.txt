@@ -5,4 +5,5 @@ sum()
    int sum=0;
    sum=a+b;
    System.out.println("Addition of 2 numbers :"+sum);
+   System.out.println("Hello World");
 }
