@@ -2,8 +2,11 @@ sum()
 {
    int a=5;
    int b=10;
+   int c=4;
    int sum=0;
-   sum=a+b;
-   System.out.println("Addition of 2 numbers :"+sum);
+   sum=a+b+c;
+   System.out.println("Addition of 3 numbers :"+sum);
    System.out.println("Hello World");
+   System.out.println("Thank You");
+   
 }
